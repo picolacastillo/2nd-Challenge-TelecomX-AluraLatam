@@ -1,0 +1,17 @@
+telecomx-churn-prediction/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── telecomx_modeling.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── modeling.py
+│   └── evaluation.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore

@@ -1,4 +1,5 @@
 **📊 Predicción de Churn en Telecomunicaciones (Challenge TelecomX)**
+
 Este proyecto utiliza técnicas de Machine Learning para identificar de manera proactiva a los clientes con alta probabilidad de cancelar sus servicios de telecomunicaciones. El objetivo es proporcionar una herramienta estratégica que permita reducir la tasa de evasión (Churn) mediante intervenciones comerciales oportunas.
 
 **🎯 Objetivos del Proyecto**

@@ -55,14 +55,6 @@ Nota: Seleccionamos la Regresión Logística como el modelo final debido a su al
 
 **Servicios de Valor**: Ofrecer paquetes de seguridad digital para justificar cargos mensuales altos.
 
-**📂 Estructura del Repositorio**
-notebooks/: Contiene el notebook con todo el proceso (EDA, Limpieza, Modelado).
-
-data/: Enlace al dataset original o archivos procesados.
-
-images/: Gráficas y capturas de resultados.
-
 **🚀 Cómo usar este proyecto**
 1. Clona el repositorio: git clone (https://github.com/picolacastillo/2nd-Challenge-TelecomX-AluraLatam.git)
-2. Instala las dependencias: pip install -r requirements.txt
-3. Ejecuta el notebook principal en Google Colab o Jupyter.
+2. Ejecuta el notebook principal en Google Colab o Jupyter.

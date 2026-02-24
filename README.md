@@ -63,6 +63,6 @@ data/: Enlace al dataset original o archivos procesados.
 images/: Gráficas y capturas de resultados.
 
 **🚀 Cómo usar este proyecto**
-1. Clona el repositorio: git clone https://github.com/tu-usuario/Challenge_TelecomX.git
+1. Clona el repositorio: git clone (https://github.com/picolacastillo/2nd-Challenge-TelecomX-AluraLatam.git)
 2. Instala las dependencias: pip install -r requirements.txt
 3. Ejecuta el notebook principal en Google Colab o Jupyter.
